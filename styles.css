@@ -3,6 +3,6 @@
 	height: 100vh;
 	background-color: #FF0000;
 	display: flex;
-	justify-content: space-evenly;
+	justify-content: center;
 	align-items: center;
 }
